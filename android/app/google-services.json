@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730225443071",
+    "project_id": "energym-f9949",
+    "storage_bucket": "energym-f9949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730225443071:android:1f39d4683bc1991fc9ccca",
+        "android_client_info": {
+          "package_name": "com.example.energymc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDabWGSqR2t98L11OSxnb8aTBGMmWgsxMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
